@@ -1,0 +1,23 @@
+notif - notification daemon
+---------------------------
+notif is a non-bloated alternative to dunst
+
+Requirements
+------------
+To build notif, you will need to following libraries:
+* D-Bus
+* X11, Xinerama and Xft
+* Cairo
+
+Building
+--------
+Edit config.mk and/or config.h to match your preferences
+
+Afterwards, run `make` to build the project
+
+    make
+
+Credits
+-------
+Based on the dunst-project source code.
+Made by Natamo <madstk1@pm.me>

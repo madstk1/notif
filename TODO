@@ -1,0 +1,7 @@
+code cleanup
+------------
+* cleanup the codebase and split into smaller files
+
+coding style
+------------
+* switch to suckless coding style
